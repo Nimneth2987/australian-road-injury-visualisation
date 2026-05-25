@@ -1,0 +1,463 @@
+"Calendar year","Age group","RoadUser_Group","Sum(Hospitalisations)"
+2011,"0-7","Car passenger",273
+2011,"0-7","Motorcyclist",27
+2011,"0-7","Other",52
+2011,"0-7","Pedal cyclist",204
+2011,"0-7","Pedestrian",163
+2011,"8-16","Car driver",73
+2011,"8-16","Car passenger",636
+2011,"8-16","Motorcyclist",474
+2011,"8-16","Other",103
+2011,"8-16","Pedal cyclist",861
+2011,"8-16","Pedestrian",373
+2011,"17-25","Car driver",2917
+2011,"17-25","Car passenger",1455
+2011,"17-25","Motorcyclist",2042
+2011,"17-25","Other",480
+2011,"17-25","Pedal cyclist",668
+2011,"17-25","Pedestrian",532
+2011,"26-39","Car driver",2790
+2011,"26-39","Car passenger",841
+2011,"26-39","Motorcyclist",2174
+2011,"26-39","Other",581
+2011,"26-39","Pedal cyclist",1314
+2011,"26-39","Pedestrian",466
+2011,"40-64","Car driver",3472
+2011,"40-64","Car passenger",962
+2011,"40-64","Motorcyclist",2645
+2011,"40-64","Other",931
+2011,"40-64","Pedal cyclist",2017
+2011,"40-64","Pedestrian",633
+2011,"65-74","Car driver",813
+2011,"65-74","Car passenger",314
+2011,"65-74","Motorcyclist",161
+2011,"65-74","Other",208
+2011,"65-74","Pedal cyclist",240
+2011,"65-74","Pedestrian",232
+2011,"75+","Car driver",883
+2011,"75+","Car passenger",372
+2011,"75+","Motorcyclist",42
+2011,"75+","Other",167
+2011,"75+","Pedal cyclist",87
+2011,"75+","Pedestrian",355
+2012,"0-7","Car driver",2
+2012,"0-7","Car passenger",308
+2012,"0-7","Motorcyclist",47
+2012,"0-7","Other",47
+2012,"0-7","Pedal cyclist",202
+2012,"0-7","Pedestrian",144
+2012,"8-16","Car driver",59
+2012,"8-16","Car passenger",568
+2012,"8-16","Motorcyclist",478
+2012,"8-16","Other",81
+2012,"8-16","Pedal cyclist",828
+2012,"8-16","Pedestrian",313
+2012,"17-25","Car driver",2830
+2012,"17-25","Car passenger",1384
+2012,"17-25","Motorcyclist",2077
+2012,"17-25","Other",511
+2012,"17-25","Pedal cyclist",731
+2012,"17-25","Pedestrian",502
+2012,"26-39","Car driver",2736
+2012,"26-39","Car passenger",884
+2012,"26-39","Motorcyclist",2240
+2012,"26-39","Other",561
+2012,"26-39","Pedal cyclist",1317
+2012,"26-39","Pedestrian",513
+2012,"40-64","Car driver",3391
+2012,"40-64","Car passenger",905
+2012,"40-64","Motorcyclist",2679
+2012,"40-64","Other",889
+2012,"40-64","Pedal cyclist",2157
+2012,"40-64","Pedestrian",641
+2012,"65-74","Car driver",846
+2012,"65-74","Car passenger",283
+2012,"65-74","Motorcyclist",166
+2012,"65-74","Other",156
+2012,"65-74","Pedal cyclist",282
+2012,"65-74","Pedestrian",208
+2012,"75+","Car driver",942
+2012,"75+","Car passenger",406
+2012,"75+","Motorcyclist",41
+2012,"75+","Other",214
+2012,"75+","Pedal cyclist",104
+2012,"75+","Pedestrian",351
+2013,"0-7","Car driver",4
+2013,"0-7","Car passenger",302
+2013,"0-7","Motorcyclist",37
+2013,"0-7","Other",45
+2013,"0-7","Pedal cyclist",194
+2013,"0-7","Pedestrian",150
+2013,"8-16","Car driver",63
+2013,"8-16","Car passenger",610
+2013,"8-16","Motorcyclist",471
+2013,"8-16","Other",89
+2013,"8-16","Pedal cyclist",871
+2013,"8-16","Pedestrian",279
+2013,"17-25","Car driver",2756
+2013,"17-25","Car passenger",1331
+2013,"17-25","Motorcyclist",2084
+2013,"17-25","Other",408
+2013,"17-25","Pedal cyclist",778
+2013,"17-25","Pedestrian",495
+2013,"26-39","Car driver",2830
+2013,"26-39","Car passenger",891
+2013,"26-39","Motorcyclist",2269
+2013,"26-39","Other",524
+2013,"26-39","Pedal cyclist",1476
+2013,"26-39","Pedestrian",482
+2013,"40-64","Car driver",3457
+2013,"40-64","Car passenger",971
+2013,"40-64","Motorcyclist",2879
+2013,"40-64","Other",865
+2013,"40-64","Pedal cyclist",2517
+2013,"40-64","Pedestrian",656
+2013,"65-74","Car driver",889
+2013,"65-74","Car passenger",336
+2013,"65-74","Motorcyclist",205
+2013,"65-74","Other",162
+2013,"65-74","Pedal cyclist",321
+2013,"65-74","Pedestrian",244
+2013,"75+","Car driver",943
+2013,"75+","Car passenger",387
+2013,"75+","Motorcyclist",73
+2013,"75+","Other",201
+2013,"75+","Pedal cyclist",105
+2013,"75+","Pedestrian",351
+2014,"0-7","Car driver",5
+2014,"0-7","Car passenger",295
+2014,"0-7","Motorcyclist",36
+2014,"0-7","Other",38
+2014,"0-7","Pedal cyclist",223
+2014,"0-7","Pedestrian",132
+2014,"8-16","Car driver",47
+2014,"8-16","Car passenger",503
+2014,"8-16","Motorcyclist",451
+2014,"8-16","Other",87
+2014,"8-16","Pedal cyclist",877
+2014,"8-16","Pedestrian",266
+2014,"17-25","Car driver",2700
+2014,"17-25","Car passenger",1317
+2014,"17-25","Motorcyclist",2104
+2014,"17-25","Other",412
+2014,"17-25","Pedal cyclist",763
+2014,"17-25","Pedestrian",432
+2014,"26-39","Car driver",2830
+2014,"26-39","Car passenger",822
+2014,"26-39","Motorcyclist",2413
+2014,"26-39","Other",501
+2014,"26-39","Pedal cyclist",1626
+2014,"26-39","Pedestrian",476
+2014,"40-64","Car driver",3596
+2014,"40-64","Car passenger",938
+2014,"40-64","Motorcyclist",3031
+2014,"40-64","Other",854
+2014,"40-64","Pedal cyclist",2629
+2014,"40-64","Pedestrian",618
+2014,"65-74","Car driver",932
+2014,"65-74","Car passenger",355
+2014,"65-74","Motorcyclist",228
+2014,"65-74","Other",160
+2014,"65-74","Pedal cyclist",389
+2014,"65-74","Pedestrian",281
+2014,"75+","Car driver",1012
+2014,"75+","Car passenger",395
+2014,"75+","Motorcyclist",71
+2014,"75+","Other",191
+2014,"75+","Pedal cyclist",129
+2014,"75+","Pedestrian",349
+2014,"Missing","Other",1
+2015,"0-7","Car driver",3
+2015,"0-7","Car passenger",343
+2015,"0-7","Motorcyclist",37
+2015,"0-7","Other",26
+2015,"0-7","Pedal cyclist",220
+2015,"0-7","Pedestrian",121
+2015,"8-16","Car driver",59
+2015,"8-16","Car passenger",626
+2015,"8-16","Motorcyclist",466
+2015,"8-16","Other",84
+2015,"8-16","Pedal cyclist",935
+2015,"8-16","Pedestrian",269
+2015,"17-25","Car driver",2918
+2015,"17-25","Car passenger",1296
+2015,"17-25","Motorcyclist",2064
+2015,"17-25","Other",409
+2015,"17-25","Pedal cyclist",748
+2015,"17-25","Pedestrian",447
+2015,"26-39","Car driver",3186
+2015,"26-39","Car passenger",904
+2015,"26-39","Motorcyclist",2322
+2015,"26-39","Other",534
+2015,"26-39","Pedal cyclist",1539
+2015,"26-39","Pedestrian",492
+2015,"40-64","Car driver",3853
+2015,"40-64","Car passenger",988
+2015,"40-64","Motorcyclist",3097
+2015,"40-64","Other",867
+2015,"40-64","Pedal cyclist",2730
+2015,"40-64","Pedestrian",664
+2015,"65-74","Car driver",1022
+2015,"65-74","Car passenger",378
+2015,"65-74","Motorcyclist",226
+2015,"65-74","Other",184
+2015,"65-74","Pedal cyclist",400
+2015,"65-74","Pedestrian",255
+2015,"75+","Car driver",1122
+2015,"75+","Car passenger",423
+2015,"75+","Motorcyclist",86
+2015,"75+","Other",216
+2015,"75+","Pedal cyclist",144
+2015,"75+","Pedestrian",379
+2016,"0-7","Car driver",4
+2016,"0-7","Car passenger",314
+2016,"0-7","Motorcyclist",27
+2016,"0-7","Other",59
+2016,"0-7","Pedal cyclist",202
+2016,"0-7","Pedestrian",130
+2016,"8-16","Car driver",50
+2016,"8-16","Car passenger",605
+2016,"8-16","Motorcyclist",428
+2016,"8-16","Other",86
+2016,"8-16","Pedal cyclist",993
+2016,"8-16","Pedestrian",314
+2016,"17-25","Car driver",3204
+2016,"17-25","Car passenger",1466
+2016,"17-25","Motorcyclist",2199
+2016,"17-25","Other",438
+2016,"17-25","Pedal cyclist",713
+2016,"17-25","Pedestrian",454
+2016,"26-39","Car driver",3496
+2016,"26-39","Car passenger",932
+2016,"26-39","Motorcyclist",2424
+2016,"26-39","Other",540
+2016,"26-39","Pedal cyclist",1540
+2016,"26-39","Pedestrian",519
+2016,"40-64","Car driver",4156
+2016,"40-64","Car passenger",990
+2016,"40-64","Motorcyclist",3101
+2016,"40-64","Other",957
+2016,"40-64","Pedal cyclist",2826
+2016,"40-64","Pedestrian",719
+2016,"65-74","Car driver",1120
+2016,"65-74","Car passenger",350
+2016,"65-74","Motorcyclist",263
+2016,"65-74","Other",212
+2016,"65-74","Pedal cyclist",480
+2016,"65-74","Pedestrian",252
+2016,"75+","Car driver",1164
+2016,"75+","Car passenger",446
+2016,"75+","Motorcyclist",84
+2016,"75+","Other",201
+2016,"75+","Pedal cyclist",150
+2016,"75+","Pedestrian",355
+2017,"0-7","Car driver",3
+2017,"0-7","Car passenger",344
+2017,"0-7","Motorcyclist",35
+2017,"0-7","Other",34
+2017,"0-7","Pedal cyclist",190
+2017,"0-7","Pedestrian",134
+2017,"8-16","Car driver",62
+2017,"8-16","Car passenger",623
+2017,"8-16","Motorcyclist",442
+2017,"8-16","Other",80
+2017,"8-16","Pedal cyclist",991
+2017,"8-16","Pedestrian",300
+2017,"17-25","Car driver",3239
+2017,"17-25","Car passenger",1402
+2017,"17-25","Motorcyclist",2163
+2017,"17-25","Other",456
+2017,"17-25","Pedal cyclist",788
+2017,"17-25","Pedestrian",420
+2017,"26-39","Car driver",3460
+2017,"26-39","Car passenger",934
+2017,"26-39","Motorcyclist",2478
+2017,"26-39","Other",553
+2017,"26-39","Pedal cyclist",1570
+2017,"26-39","Pedestrian",513
+2017,"40-64","Car driver",4221
+2017,"40-64","Car passenger",966
+2017,"40-64","Motorcyclist",3202
+2017,"40-64","Other",905
+2017,"40-64","Pedal cyclist",2897
+2017,"40-64","Pedestrian",746
+2017,"65-74","Car driver",1096
+2017,"65-74","Car passenger",381
+2017,"65-74","Motorcyclist",336
+2017,"65-74","Other",203
+2017,"65-74","Pedal cyclist",486
+2017,"65-74","Pedestrian",275
+2017,"75+","Car driver",1186
+2017,"75+","Car passenger",452
+2017,"75+","Motorcyclist",83
+2017,"75+","Other",210
+2017,"75+","Pedal cyclist",154
+2017,"75+","Pedestrian",326
+2018,"0-7","Car driver",3
+2018,"0-7","Car passenger",348
+2018,"0-7","Motorcyclist",34
+2018,"0-7","Other",25
+2018,"0-7","Pedal cyclist",184
+2018,"0-7","Pedestrian",130
+2018,"8-16","Car driver",60
+2018,"8-16","Car passenger",680
+2018,"8-16","Motorcyclist",377
+2018,"8-16","Other",74
+2018,"8-16","Pedal cyclist",945
+2018,"8-16","Pedestrian",286
+2018,"17-25","Car driver",3328
+2018,"17-25","Car passenger",1387
+2018,"17-25","Motorcyclist",1992
+2018,"17-25","Other",464
+2018,"17-25","Pedal cyclist",712
+2018,"17-25","Pedestrian",426
+2018,"26-39","Car driver",3615
+2018,"26-39","Car passenger",932
+2018,"26-39","Motorcyclist",2536
+2018,"26-39","Other",612
+2018,"26-39","Pedal cyclist",1541
+2018,"26-39","Pedestrian",500
+2018,"40-64","Car driver",4185
+2018,"40-64","Car passenger",978
+2018,"40-64","Motorcyclist",3246
+2018,"40-64","Other",965
+2018,"40-64","Pedal cyclist",2872
+2018,"40-64","Pedestrian",727
+2018,"65-74","Car driver",1172
+2018,"65-74","Car passenger",390
+2018,"65-74","Motorcyclist",352
+2018,"65-74","Other",187
+2018,"65-74","Pedal cyclist",510
+2018,"65-74","Pedestrian",265
+2018,"75+","Car driver",1232
+2018,"75+","Car passenger",491
+2018,"75+","Motorcyclist",86
+2018,"75+","Other",219
+2018,"75+","Pedal cyclist",195
+2018,"75+","Pedestrian",327
+2019,"0-7","Car driver",5
+2019,"0-7","Car passenger",316
+2019,"0-7","Motorcyclist",34
+2019,"0-7","Other",23
+2019,"0-7","Pedal cyclist",203
+2019,"0-7","Pedestrian",123
+2019,"8-16","Car driver",52
+2019,"8-16","Car passenger",603
+2019,"8-16","Motorcyclist",462
+2019,"8-16","Other",52
+2019,"8-16","Pedal cyclist",1041
+2019,"8-16","Pedestrian",285
+2019,"17-25","Car driver",3063
+2019,"17-25","Car passenger",1294
+2019,"17-25","Motorcyclist",2158
+2019,"17-25","Other",428
+2019,"17-25","Pedal cyclist",731
+2019,"17-25","Pedestrian",428
+2019,"26-39","Car driver",3488
+2019,"26-39","Car passenger",924
+2019,"26-39","Motorcyclist",2476
+2019,"26-39","Other",633
+2019,"26-39","Pedal cyclist",1589
+2019,"26-39","Pedestrian",531
+2019,"40-64","Car driver",4298
+2019,"40-64","Car passenger",979
+2019,"40-64","Motorcyclist",3278
+2019,"40-64","Other",906
+2019,"40-64","Pedal cyclist",2995
+2019,"40-64","Pedestrian",714
+2019,"65-74","Car driver",1226
+2019,"65-74","Car passenger",391
+2019,"65-74","Motorcyclist",384
+2019,"65-74","Other",216
+2019,"65-74","Pedal cyclist",565
+2019,"65-74","Pedestrian",286
+2019,"75+","Car driver",1350
+2019,"75+","Car passenger",482
+2019,"75+","Motorcyclist",132
+2019,"75+","Other",198
+2019,"75+","Pedal cyclist",178
+2019,"75+","Pedestrian",346
+2020,"0-7","Car driver",6
+2020,"0-7","Car passenger",292
+2020,"0-7","Motorcyclist",32
+2020,"0-7","Other",26
+2020,"0-7","Pedal cyclist",258
+2020,"0-7","Pedestrian",100
+2020,"8-16","Car driver",66
+2020,"8-16","Car passenger",529
+2020,"8-16","Motorcyclist",535
+2020,"8-16","Other",87
+2020,"8-16","Pedal cyclist",1348
+2020,"8-16","Pedestrian",234
+2020,"17-25","Car driver",3070
+2020,"17-25","Car passenger",1275
+2020,"17-25","Motorcyclist",2102
+2020,"17-25","Other",423
+2020,"17-25","Pedal cyclist",768
+2020,"17-25","Pedestrian",333
+2020,"26-39","Car driver",3253
+2020,"26-39","Car passenger",816
+2020,"26-39","Motorcyclist",2501
+2020,"26-39","Other",555
+2020,"26-39","Pedal cyclist",1681
+2020,"26-39","Pedestrian",396
+2020,"40-64","Car driver",3716
+2020,"40-64","Car passenger",794
+2020,"40-64","Motorcyclist",3062
+2020,"40-64","Other",872
+2020,"40-64","Pedal cyclist",3331
+2020,"40-64","Pedestrian",567
+2020,"65-74","Car driver",984
+2020,"65-74","Car passenger",303
+2020,"65-74","Motorcyclist",377
+2020,"65-74","Other",188
+2020,"65-74","Pedal cyclist",693
+2020,"65-74","Pedestrian",234
+2020,"75+","Car driver",1122
+2020,"75+","Car passenger",335
+2020,"75+","Motorcyclist",75
+2020,"75+","Other",135
+2020,"75+","Pedal cyclist",253
+2020,"75+","Pedestrian",239
+2021,"0-7","Car driver",9
+2021,"0-7","Car passenger",288
+2021,"0-7","Motorcyclist",36
+2021,"0-7","Other",34
+2021,"0-7","Pedal cyclist",217
+2021,"0-7","Pedestrian",123
+2021,"8-16","Car driver",66
+2021,"8-16","Car passenger",603
+2021,"8-16","Motorcyclist",575
+2021,"8-16","Other",86
+2021,"8-16","Pedal cyclist",1250
+2021,"8-16","Pedestrian",283
+2021,"17-25","Car driver",3272
+2021,"17-25","Car passenger",1203
+2021,"17-25","Motorcyclist",2020
+2021,"17-25","Other",450
+2021,"17-25","Pedal cyclist",727
+2021,"17-25","Pedestrian",338
+2021,"26-39","Car driver",3571
+2021,"26-39","Car passenger",813
+2021,"26-39","Motorcyclist",2479
+2021,"26-39","Other",568
+2021,"26-39","Pedal cyclist",1542
+2021,"26-39","Pedestrian",450
+2021,"40-64","Car driver",4036
+2021,"40-64","Car passenger",924
+2021,"40-64","Motorcyclist",3259
+2021,"40-64","Other",792
+2021,"40-64","Pedal cyclist",3393
+2021,"40-64","Pedestrian",622
+2021,"65-74","Car driver",1119
+2021,"65-74","Car passenger",287
+2021,"65-74","Motorcyclist",402
+2021,"65-74","Other",221
+2021,"65-74","Pedal cyclist",749
+2021,"65-74","Pedestrian",240
+2021,"75+","Car driver",1254
+2021,"75+","Car passenger",377
+2021,"75+","Motorcyclist",112
+2021,"75+","Other",152
+2021,"75+","Pedal cyclist",285
+2021,"75+","Pedestrian",278
