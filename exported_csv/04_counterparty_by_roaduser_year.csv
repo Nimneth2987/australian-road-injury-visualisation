@@ -1,0 +1,496 @@
+"Calendar year","RoadUser_Group","Counterparty_Group","Sum(Hospitalisations)"
+2011,"Car driver","Car / van",5768
+2011,"Car driver","Fixed object",2774
+2011,"Car driver","Heavy transport / bus",523
+2011,"Car driver","Motorcycle",20
+2011,"Car driver","Non-collision / solo",1619
+2011,"Car driver","Other / unspecified",156
+2011,"Car driver","Pedal cycle",3
+2011,"Car driver","Pedestrian / animal",85
+2011,"Car passenger","Car / van",2480
+2011,"Car passenger","Fixed object",1058
+2011,"Car passenger","Heavy transport / bus",175
+2011,"Car passenger","Motorcycle",10
+2011,"Car passenger","Non-collision / solo",974
+2011,"Car passenger","Other / unspecified",115
+2011,"Car passenger","Pedestrian / animal",41
+2011,"Motorcyclist","Car / van",1810
+2011,"Motorcyclist","Fixed object",653
+2011,"Motorcyclist","Heavy transport / bus",88
+2011,"Motorcyclist","Motorcycle",135
+2011,"Motorcyclist","Non-collision / solo",3044
+2011,"Motorcyclist","Other / unspecified",1687
+2011,"Motorcyclist","Pedal cycle",8
+2011,"Motorcyclist","Pedestrian / animal",140
+2011,"Other","Car / van",280
+2011,"Other","Fixed object",174
+2011,"Other","Heavy transport / bus",118
+2011,"Other","Motorcycle",1
+2011,"Other","Non-collision / solo",653
+2011,"Other","Other / unspecified",1274
+2011,"Other","Pedestrian / animal",22
+2011,"Pedal cyclist","Car / van",1239
+2011,"Pedal cyclist","Fixed object",274
+2011,"Pedal cyclist","Heavy transport / bus",53
+2011,"Pedal cyclist","Motorcycle",16
+2011,"Pedal cyclist","Non-collision / solo",2353
+2011,"Pedal cyclist","Other / unspecified",1180
+2011,"Pedal cyclist","Pedal cycle",235
+2011,"Pedal cyclist","Pedestrian / animal",41
+2011,"Pedestrian","Car / van",2437
+2011,"Pedestrian","Heavy transport / bus",112
+2011,"Pedestrian","Motorcycle",64
+2011,"Pedestrian","Other / unspecified",94
+2011,"Pedestrian","Pedal cycle",34
+2011,"Pedestrian","Pedestrian / animal",13
+2012,"Car driver","Car / van",5607
+2012,"Car driver","Fixed object",2754
+2012,"Car driver","Heavy transport / bus",461
+2012,"Car driver","Motorcycle",21
+2012,"Car driver","Non-collision / solo",1709
+2012,"Car driver","Other / unspecified",166
+2012,"Car driver","Pedal cycle",9
+2012,"Car driver","Pedestrian / animal",79
+2012,"Car passenger","Car / van",2341
+2012,"Car passenger","Fixed object",1017
+2012,"Car passenger","Heavy transport / bus",163
+2012,"Car passenger","Motorcycle",4
+2012,"Car passenger","Non-collision / solo",1072
+2012,"Car passenger","Other / unspecified",80
+2012,"Car passenger","Pedal cycle",3
+2012,"Car passenger","Pedestrian / animal",58
+2012,"Motorcyclist","Car / van",1889
+2012,"Motorcyclist","Fixed object",656
+2012,"Motorcyclist","Heavy transport / bus",79
+2012,"Motorcyclist","Motorcycle",136
+2012,"Motorcyclist","Non-collision / solo",3026
+2012,"Motorcyclist","Other / unspecified",1769
+2012,"Motorcyclist","Pedal cycle",3
+2012,"Motorcyclist","Pedestrian / animal",170
+2012,"Other","Car / van",316
+2012,"Other","Fixed object",180
+2012,"Other","Heavy transport / bus",127
+2012,"Other","Motorcycle",3
+2012,"Other","Non-collision / solo",589
+2012,"Other","Other / unspecified",1225
+2012,"Other","Pedestrian / animal",19
+2012,"Pedal cyclist","Car / van",1292
+2012,"Pedal cyclist","Fixed object",292
+2012,"Pedal cyclist","Heavy transport / bus",70
+2012,"Pedal cyclist","Motorcycle",8
+2012,"Pedal cyclist","Non-collision / solo",2419
+2012,"Pedal cyclist","Other / unspecified",1241
+2012,"Pedal cyclist","Pedal cycle",258
+2012,"Pedal cyclist","Pedestrian / animal",41
+2012,"Pedestrian","Car / van",2341
+2012,"Pedestrian","Heavy transport / bus",121
+2012,"Pedestrian","Motorcycle",45
+2012,"Pedestrian","Other / unspecified",104
+2012,"Pedestrian","Pedal cycle",48
+2012,"Pedestrian","Pedestrian / animal",13
+2013,"Car driver","Car / van",5580
+2013,"Car driver","Fixed object",2762
+2013,"Car driver","Heavy transport / bus",548
+2013,"Car driver","Motorcycle",25
+2013,"Car driver","Non-collision / solo",1746
+2013,"Car driver","Other / unspecified",175
+2013,"Car driver","Pedal cycle",7
+2013,"Car driver","Pedestrian / animal",99
+2013,"Car passenger","Car / van",2436
+2013,"Car passenger","Fixed object",1016
+2013,"Car passenger","Heavy transport / bus",167
+2013,"Car passenger","Motorcycle",7
+2013,"Car passenger","Non-collision / solo",1046
+2013,"Car passenger","Other / unspecified",96
+2013,"Car passenger","Pedal cycle",2
+2013,"Car passenger","Pedestrian / animal",58
+2013,"Motorcyclist","Car / van",1997
+2013,"Motorcyclist","Fixed object",749
+2013,"Motorcyclist","Heavy transport / bus",84
+2013,"Motorcyclist","Motorcycle",134
+2013,"Motorcyclist","Non-collision / solo",3279
+2013,"Motorcyclist","Other / unspecified",1591
+2013,"Motorcyclist","Pedal cycle",6
+2013,"Motorcyclist","Pedestrian / animal",178
+2013,"Other","Car / van",281
+2013,"Other","Fixed object",157
+2013,"Other","Heavy transport / bus",109
+2013,"Other","Motorcycle",1
+2013,"Other","Non-collision / solo",560
+2013,"Other","Other / unspecified",1165
+2013,"Other","Pedal cycle",2
+2013,"Other","Pedestrian / animal",19
+2013,"Pedal cyclist","Car / van",1387
+2013,"Pedal cyclist","Fixed object",294
+2013,"Pedal cyclist","Heavy transport / bus",64
+2013,"Pedal cyclist","Motorcycle",14
+2013,"Pedal cyclist","Non-collision / solo",2786
+2013,"Pedal cyclist","Other / unspecified",1296
+2013,"Pedal cyclist","Pedal cycle",357
+2013,"Pedal cyclist","Pedestrian / animal",64
+2013,"Pedestrian","Car / van",2318
+2013,"Pedestrian","Heavy transport / bus",132
+2013,"Pedestrian","Motorcycle",52
+2013,"Pedestrian","Other / unspecified",82
+2013,"Pedestrian","Pedal cycle",57
+2013,"Pedestrian","Pedestrian / animal",16
+2014,"Car driver","Car / van",5880
+2014,"Car driver","Fixed object",2832
+2014,"Car driver","Heavy transport / bus",513
+2014,"Car driver","Motorcycle",28
+2014,"Car driver","Non-collision / solo",1605
+2014,"Car driver","Other / unspecified",175
+2014,"Car driver","Pedal cycle",6
+2014,"Car driver","Pedestrian / animal",83
+2014,"Car passenger","Car / van",2352
+2014,"Car passenger","Fixed object",954
+2014,"Car passenger","Heavy transport / bus",181
+2014,"Car passenger","Motorcycle",6
+2014,"Car passenger","Non-collision / solo",991
+2014,"Car passenger","Other / unspecified",99
+2014,"Car passenger","Pedal cycle",4
+2014,"Car passenger","Pedestrian / animal",38
+2014,"Motorcyclist","Car / van",2076
+2014,"Motorcyclist","Fixed object",755
+2014,"Motorcyclist","Heavy transport / bus",80
+2014,"Motorcyclist","Motorcycle",132
+2014,"Motorcyclist","Non-collision / solo",3448
+2014,"Motorcyclist","Other / unspecified",1618
+2014,"Motorcyclist","Pedal cycle",10
+2014,"Motorcyclist","Pedestrian / animal",215
+2014,"Other","Car / van",332
+2014,"Other","Fixed object",160
+2014,"Other","Heavy transport / bus",106
+2014,"Other","Motorcycle",2
+2014,"Other","Non-collision / solo",587
+2014,"Other","Other / unspecified",1050
+2014,"Other","Pedal cycle",2
+2014,"Other","Pedestrian / animal",5
+2014,"Pedal cyclist","Car / van",1413
+2014,"Pedal cyclist","Fixed object",361
+2014,"Pedal cyclist","Heavy transport / bus",65
+2014,"Pedal cyclist","Motorcycle",14
+2014,"Pedal cyclist","Non-collision / solo",3008
+2014,"Pedal cyclist","Other / unspecified",1407
+2014,"Pedal cyclist","Pedal cycle",294
+2014,"Pedal cyclist","Pedestrian / animal",74
+2014,"Pedestrian","Car / van",2205
+2014,"Pedestrian","Heavy transport / bus",132
+2014,"Pedestrian","Motorcycle",62
+2014,"Pedestrian","Other / unspecified",96
+2014,"Pedestrian","Pedal cycle",50
+2014,"Pedestrian","Pedestrian / animal",9
+2015,"Car driver","Car / van",6530
+2015,"Car driver","Fixed object",2996
+2015,"Car driver","Heavy transport / bus",547
+2015,"Car driver","Motorcycle",21
+2015,"Car driver","Non-collision / solo",1822
+2015,"Car driver","Other / unspecified",157
+2015,"Car driver","Pedal cycle",4
+2015,"Car driver","Pedestrian / animal",86
+2015,"Car passenger","Car / van",2560
+2015,"Car passenger","Fixed object",1034
+2015,"Car passenger","Heavy transport / bus",197
+2015,"Car passenger","Motorcycle",6
+2015,"Car passenger","Non-collision / solo",1030
+2015,"Car passenger","Other / unspecified",89
+2015,"Car passenger","Pedestrian / animal",42
+2015,"Motorcyclist","Car / van",2131
+2015,"Motorcyclist","Fixed object",751
+2015,"Motorcyclist","Heavy transport / bus",88
+2015,"Motorcyclist","Motorcycle",175
+2015,"Motorcyclist","Non-collision / solo",3412
+2015,"Motorcyclist","Other / unspecified",1546
+2015,"Motorcyclist","Pedal cycle",7
+2015,"Motorcyclist","Pedestrian / animal",188
+2015,"Other","Car / van",312
+2015,"Other","Fixed object",173
+2015,"Other","Heavy transport / bus",101
+2015,"Other","Motorcycle",1
+2015,"Other","Non-collision / solo",602
+2015,"Other","Other / unspecified",1117
+2015,"Other","Pedal cycle",1
+2015,"Other","Pedestrian / animal",13
+2015,"Pedal cyclist","Car / van",1455
+2015,"Pedal cyclist","Fixed object",350
+2015,"Pedal cyclist","Heavy transport / bus",47
+2015,"Pedal cyclist","Motorcycle",15
+2015,"Pedal cyclist","Non-collision / solo",3004
+2015,"Pedal cyclist","Other / unspecified",1421
+2015,"Pedal cyclist","Pedal cycle",354
+2015,"Pedal cyclist","Pedestrian / animal",70
+2015,"Pedestrian","Car / van",2330
+2015,"Pedestrian","Heavy transport / bus",94
+2015,"Pedestrian","Motorcycle",49
+2015,"Pedestrian","Other / unspecified",95
+2015,"Pedestrian","Pedal cycle",52
+2015,"Pedestrian","Pedestrian / animal",7
+2016,"Car driver","Car / van",7366
+2016,"Car driver","Fixed object",3227
+2016,"Car driver","Heavy transport / bus",541
+2016,"Car driver","Motorcycle",32
+2016,"Car driver","Non-collision / solo",1750
+2016,"Car driver","Other / unspecified",183
+2016,"Car driver","Pedal cycle",4
+2016,"Car driver","Pedestrian / animal",91
+2016,"Car passenger","Car / van",2667
+2016,"Car passenger","Fixed object",1021
+2016,"Car passenger","Heavy transport / bus",215
+2016,"Car passenger","Motorcycle",9
+2016,"Car passenger","Non-collision / solo",1039
+2016,"Car passenger","Other / unspecified",97
+2016,"Car passenger","Pedestrian / animal",55
+2016,"Motorcyclist","Car / van",2302
+2016,"Motorcyclist","Fixed object",785
+2016,"Motorcyclist","Heavy transport / bus",81
+2016,"Motorcyclist","Motorcycle",170
+2016,"Motorcyclist","Non-collision / solo",3442
+2016,"Motorcyclist","Other / unspecified",1568
+2016,"Motorcyclist","Pedal cycle",9
+2016,"Motorcyclist","Pedestrian / animal",169
+2016,"Other","Car / van",327
+2016,"Other","Fixed object",159
+2016,"Other","Heavy transport / bus",106
+2016,"Other","Motorcycle",3
+2016,"Other","Non-collision / solo",627
+2016,"Other","Other / unspecified",1261
+2016,"Other","Pedestrian / animal",10
+2016,"Pedal cyclist","Car / van",1482
+2016,"Pedal cyclist","Fixed object",415
+2016,"Pedal cyclist","Heavy transport / bus",76
+2016,"Pedal cyclist","Motorcycle",13
+2016,"Pedal cyclist","Non-collision / solo",3053
+2016,"Pedal cyclist","Other / unspecified",1447
+2016,"Pedal cyclist","Pedal cycle",335
+2016,"Pedal cyclist","Pedestrian / animal",83
+2016,"Pedestrian","Car / van",2407
+2016,"Pedestrian","Heavy transport / bus",119
+2016,"Pedestrian","Motorcycle",61
+2016,"Pedestrian","Other / unspecified",91
+2016,"Pedestrian","Pedal cycle",53
+2016,"Pedestrian","Pedestrian / animal",12
+2017,"Car driver","Car / van",7473
+2017,"Car driver","Fixed object",3061
+2017,"Car driver","Heavy transport / bus",595
+2017,"Car driver","Motorcycle",21
+2017,"Car driver","Non-collision / solo",1826
+2017,"Car driver","Other / unspecified",190
+2017,"Car driver","Pedal cycle",5
+2017,"Car driver","Pedestrian / animal",96
+2017,"Car passenger","Car / van",2766
+2017,"Car passenger","Fixed object",1005
+2017,"Car passenger","Heavy transport / bus",191
+2017,"Car passenger","Motorcycle",5
+2017,"Car passenger","Non-collision / solo",998
+2017,"Car passenger","Other / unspecified",89
+2017,"Car passenger","Pedal cycle",1
+2017,"Car passenger","Pedestrian / animal",47
+2017,"Motorcyclist","Car / van",2371
+2017,"Motorcyclist","Fixed object",814
+2017,"Motorcyclist","Heavy transport / bus",109
+2017,"Motorcyclist","Motorcycle",169
+2017,"Motorcyclist","Non-collision / solo",3579
+2017,"Motorcyclist","Other / unspecified",1464
+2017,"Motorcyclist","Pedal cycle",19
+2017,"Motorcyclist","Pedestrian / animal",214
+2017,"Other","Car / van",362
+2017,"Other","Fixed object",152
+2017,"Other","Heavy transport / bus",121
+2017,"Other","Motorcycle",1
+2017,"Other","Non-collision / solo",592
+2017,"Other","Other / unspecified",1199
+2017,"Other","Pedestrian / animal",14
+2017,"Pedal cyclist","Car / van",1603
+2017,"Pedal cyclist","Fixed object",419
+2017,"Pedal cyclist","Heavy transport / bus",62
+2017,"Pedal cyclist","Motorcycle",14
+2017,"Pedal cyclist","Non-collision / solo",3094
+2017,"Pedal cyclist","Other / unspecified",1446
+2017,"Pedal cyclist","Pedal cycle",354
+2017,"Pedal cyclist","Pedestrian / animal",84
+2017,"Pedestrian","Car / van",2391
+2017,"Pedestrian","Heavy transport / bus",105
+2017,"Pedestrian","Motorcycle",45
+2017,"Pedestrian","Other / unspecified",106
+2017,"Pedestrian","Pedal cycle",53
+2017,"Pedestrian","Pedestrian / animal",14
+2018,"Car driver","Car / van",7572
+2018,"Car driver","Fixed object",3134
+2018,"Car driver","Heavy transport / bus",572
+2018,"Car driver","Motorcycle",19
+2018,"Car driver","Non-collision / solo",1960
+2018,"Car driver","Other / unspecified",208
+2018,"Car driver","Pedal cycle",6
+2018,"Car driver","Pedestrian / animal",124
+2018,"Car passenger","Car / van",2733
+2018,"Car passenger","Fixed object",1032
+2018,"Car passenger","Heavy transport / bus",178
+2018,"Car passenger","Motorcycle",4
+2018,"Car passenger","Non-collision / solo",1125
+2018,"Car passenger","Other / unspecified",84
+2018,"Car passenger","Pedal cycle",1
+2018,"Car passenger","Pedestrian / animal",49
+2018,"Motorcyclist","Car / van",2322
+2018,"Motorcyclist","Fixed object",821
+2018,"Motorcyclist","Heavy transport / bus",89
+2018,"Motorcyclist","Motorcycle",142
+2018,"Motorcyclist","Non-collision / solo",3586
+2018,"Motorcyclist","Other / unspecified",1421
+2018,"Motorcyclist","Pedal cycle",11
+2018,"Motorcyclist","Pedestrian / animal",231
+2018,"Other","Car / van",337
+2018,"Other","Fixed object",169
+2018,"Other","Heavy transport / bus",118
+2018,"Other","Motorcycle",2
+2018,"Other","Non-collision / solo",621
+2018,"Other","Other / unspecified",1290
+2018,"Other","Pedestrian / animal",9
+2018,"Pedal cyclist","Car / van",1494
+2018,"Pedal cyclist","Fixed object",402
+2018,"Pedal cyclist","Heavy transport / bus",58
+2018,"Pedal cyclist","Motorcycle",13
+2018,"Pedal cyclist","Non-collision / solo",3076
+2018,"Pedal cyclist","Other / unspecified",1498
+2018,"Pedal cyclist","Pedal cycle",343
+2018,"Pedal cyclist","Pedestrian / animal",75
+2018,"Pedestrian","Car / van",2347
+2018,"Pedestrian","Heavy transport / bus",97
+2018,"Pedestrian","Motorcycle",56
+2018,"Pedestrian","Other / unspecified",93
+2018,"Pedestrian","Pedal cycle",55
+2018,"Pedestrian","Pedestrian / animal",13
+2019,"Car driver","Car / van",7697
+2019,"Car driver","Fixed object",3052
+2019,"Car driver","Heavy transport / bus",527
+2019,"Car driver","Motorcycle",21
+2019,"Car driver","Non-collision / solo",1868
+2019,"Car driver","Other / unspecified",202
+2019,"Car driver","Pedal cycle",5
+2019,"Car driver","Pedestrian / animal",110
+2019,"Car passenger","Car / van",2678
+2019,"Car passenger","Fixed object",1054
+2019,"Car passenger","Heavy transport / bus",195
+2019,"Car passenger","Motorcycle",4
+2019,"Car passenger","Non-collision / solo",946
+2019,"Car passenger","Other / unspecified",74
+2019,"Car passenger","Pedestrian / animal",38
+2019,"Motorcyclist","Car / van",2462
+2019,"Motorcyclist","Fixed object",817
+2019,"Motorcyclist","Heavy transport / bus",82
+2019,"Motorcyclist","Motorcycle",185
+2019,"Motorcyclist","Non-collision / solo",3577
+2019,"Motorcyclist","Other / unspecified",1551
+2019,"Motorcyclist","Pedal cycle",18
+2019,"Motorcyclist","Pedestrian / animal",232
+2019,"Other","Car / van",322
+2019,"Other","Fixed object",182
+2019,"Other","Heavy transport / bus",116
+2019,"Other","Motorcycle",4
+2019,"Other","Non-collision / solo",579
+2019,"Other","Other / unspecified",1241
+2019,"Other","Pedal cycle",1
+2019,"Other","Pedestrian / animal",11
+2019,"Pedal cyclist","Car / van",1585
+2019,"Pedal cyclist","Fixed object",434
+2019,"Pedal cyclist","Heavy transport / bus",40
+2019,"Pedal cyclist","Motorcycle",23
+2019,"Pedal cyclist","Non-collision / solo",3070
+2019,"Pedal cyclist","Other / unspecified",1682
+2019,"Pedal cyclist","Pedal cycle",384
+2019,"Pedal cyclist","Pedestrian / animal",84
+2019,"Pedestrian","Car / van",2365
+2019,"Pedestrian","Heavy transport / bus",112
+2019,"Pedestrian","Motorcycle",62
+2019,"Pedestrian","Other / unspecified",105
+2019,"Pedestrian","Pedal cycle",56
+2019,"Pedestrian","Pedestrian / animal",13
+2020,"Car driver","Car / van",6635
+2020,"Car driver","Fixed object",3076
+2020,"Car driver","Heavy transport / bus",471
+2020,"Car driver","Motorcycle",23
+2020,"Car driver","Non-collision / solo",1768
+2020,"Car driver","Other / unspecified",149
+2020,"Car driver","Pedal cycle",4
+2020,"Car driver","Pedestrian / animal",91
+2020,"Car passenger","Car / van",2222
+2020,"Car passenger","Fixed object",987
+2020,"Car passenger","Heavy transport / bus",133
+2020,"Car passenger","Motorcycle",5
+2020,"Car passenger","Non-collision / solo",912
+2020,"Car passenger","Other / unspecified",58
+2020,"Car passenger","Pedestrian / animal",27
+2020,"Motorcyclist","Car / van",2047
+2020,"Motorcyclist","Fixed object",955
+2020,"Motorcyclist","Heavy transport / bus",73
+2020,"Motorcyclist","Motorcycle",209
+2020,"Motorcyclist","Non-collision / solo",3782
+2020,"Motorcyclist","Other / unspecified",1422
+2020,"Motorcyclist","Pedal cycle",16
+2020,"Motorcyclist","Pedestrian / animal",180
+2020,"Other","Car / van",313
+2020,"Other","Fixed object",138
+2020,"Other","Heavy transport / bus",96
+2020,"Other","Motorcycle",1
+2020,"Other","Non-collision / solo",590
+2020,"Other","Other / unspecified",1142
+2020,"Other","Pedal cycle",1
+2020,"Other","Pedestrian / animal",5
+2020,"Pedal cyclist","Car / van",1599
+2020,"Pedal cyclist","Fixed object",500
+2020,"Pedal cyclist","Heavy transport / bus",42
+2020,"Pedal cyclist","Motorcycle",15
+2020,"Pedal cyclist","Non-collision / solo",3853
+2020,"Pedal cyclist","Other / unspecified",1902
+2020,"Pedal cyclist","Pedal cycle",335
+2020,"Pedal cyclist","Pedestrian / animal",86
+2020,"Pedestrian","Car / van",1852
+2020,"Pedestrian","Heavy transport / bus",78
+2020,"Pedestrian","Motorcycle",45
+2020,"Pedestrian","Other / unspecified",87
+2020,"Pedestrian","Pedal cycle",35
+2020,"Pedestrian","Pedestrian / animal",6
+2021,"Car driver","Car / van",7589
+2021,"Car driver","Fixed object",3064
+2021,"Car driver","Heavy transport / bus",544
+2021,"Car driver","Motorcycle",31
+2021,"Car driver","Non-collision / solo",1821
+2021,"Car driver","Other / unspecified",175
+2021,"Car driver","Pedal cycle",4
+2021,"Car driver","Pedestrian / animal",99
+2021,"Car passenger","Car / van",2303
+2021,"Car passenger","Fixed object",970
+2021,"Car passenger","Heavy transport / bus",161
+2021,"Car passenger","Motorcycle",11
+2021,"Car passenger","Non-collision / solo",941
+2021,"Car passenger","Other / unspecified",73
+2021,"Car passenger","Pedal cycle",1
+2021,"Car passenger","Pedestrian / animal",35
+2021,"Motorcyclist","Car / van",2317
+2021,"Motorcyclist","Fixed object",920
+2021,"Motorcyclist","Heavy transport / bus",66
+2021,"Motorcyclist","Motorcycle",203
+2021,"Motorcyclist","Non-collision / solo",3759
+2021,"Motorcyclist","Other / unspecified",1395
+2021,"Motorcyclist","Pedal cycle",13
+2021,"Motorcyclist","Pedestrian / animal",210
+2021,"Other","Car / van",345
+2021,"Other","Fixed object",176
+2021,"Other","Heavy transport / bus",117
+2021,"Other","Motorcycle",1
+2021,"Other","Non-collision / solo",502
+2021,"Other","Other / unspecified",1149
+2021,"Other","Pedestrian / animal",13
+2021,"Pedal cyclist","Car / van",1575
+2021,"Pedal cyclist","Fixed object",466
+2021,"Pedal cyclist","Heavy transport / bus",49
+2021,"Pedal cyclist","Motorcycle",17
+2021,"Pedal cyclist","Non-collision / solo",3705
+2021,"Pedal cyclist","Other / unspecified",1863
+2021,"Pedal cyclist","Pedal cycle",390
+2021,"Pedal cyclist","Pedestrian / animal",98
+2021,"Pedestrian","Car / van",2063
+2021,"Pedestrian","Heavy transport / bus",83
+2021,"Pedestrian","Motorcycle",37
+2021,"Pedestrian","Other / unspecified",82
+2021,"Pedestrian","Pedal cycle",43
+2021,"Pedestrian","Pedestrian / animal",26
