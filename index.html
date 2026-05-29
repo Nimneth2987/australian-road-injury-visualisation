@@ -1,0 +1,236 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hospitalised Road Crash Injuries in Australia, 2011–2021</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="hero">
+    <div class="container">
+      <p class="kicker">Data Visualisation Project · 2026 sem1</p>
+      <h1>Hospitalised Injuries from Road Crashes in Australia</h1>
+      <p class="lead">
+        Hospitalised road crash injuries changed over time in Australia, but the burden is not equal
+        across all groups. This visualisation guides you through who is most affected, where injuries
+        happen, how the sex gap differs by road user, and what crash interactions are involved.
+      </p>
+      
+    </div>
+  </header>
+
+  <!-- CHART 1 -->
+  <section class="chart-section" id="section-1">
+    <div class="container">
+      <p class="section-label">Section 01</p>
+      <h2>How did hospitalised injuries change from 2011 to 2021?</h2>
+      <p class="section-intro">
+        Hospitalised road crash injuries rose 16% nationally between 2011 and 2021. But the increase
+        was not equal across road users or geographic areas. Use the filters below to explore where
+        the change is concentrated.
+      </p>
+
+      <div class="controls">
+        <div class="control-group">
+          <label for="c1-roaduser">Road user</label>
+          <select id="c1-roaduser">
+            <option value="All">All road users</option>
+            <option value="Car driver">Car driver</option>
+            <option value="Car passenger">Car passenger</option>
+            <option value="Motorcyclist">Motorcyclist</option>
+            <option value="Pedal cyclist">Pedal cyclist</option>
+            <option value="Pedestrian">Pedestrian</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="c1-remoteness">Remoteness</label>
+          <select id="c1-remoteness">
+            <option value="All">All areas</option>
+            <option value="Major Cities">Major Cities</option>
+            <option value="Regional">Regional</option>
+            <option value="Remote">Remote</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="chart-wrapper" id="chart1"></div>
+
+      <div class="insight">
+        <p>
+          Hospitalised injuries increased overall between 2011 and 2021, but the growth was not
+          equal across all road users and areas. The road user filter shows that some groups,
+          especially pedal cyclists, experienced stronger growth than the national pattern.
+          The remoteness filter helps users compare whether the injury burden is concentrated
+          in major cities, regional areas, or remote areas.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CHART 2 -->
+  <section class="chart-section alt" id="section-2">
+    <div class="container">
+      <p class="section-label">Section 02</p>
+      <h2>Which road users carry the largest share of injuries?</h2>
+      <p class="section-intro">
+        Different road users contribute different proportions of the total injury burden, and the
+        picture changes dramatically when you separate males from females.
+      </p>
+
+      <div class="controls">
+        <div class="control-group">
+          <label for="c2-year">Year</label>
+          <select id="c2-year">
+            <option value="All">All years (2011–2021)</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="c2-sex">Sex</label>
+          <select id="c2-sex">
+            <option value="All">All</option>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="chart-wrapper" id="chart2"></div>
+
+      <div class="insight">
+        <p>
+          This chart shows how the hospitalised injury burden is distributed across road user
+          groups. Car drivers generally form a large share, but the pattern changes when the sex
+          filter is used. Male hospitalisations show a stronger motorcycle-related burden, while
+          female hospitalisations place relatively more weight on car drivers and passengers.
+          This helps users compare injury share, not just total counts.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CHART 3 -->
+  <section class="chart-section" id="section-3">
+    <div class="container">
+      <p class="section-label">Section 03</p>
+      <h2>Which age groups are most affected?</h2>
+      <p class="section-intro">
+        Road crashes are often assumed to be a young person's problem. The data tells a more
+        complicated story.
+      </p>
+
+      <div class="controls">
+        <div class="control-group">
+          <label for="c3-year">Year</label>
+          <select id="c3-year">
+            <option value="2021">2021</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="c3-roaduser">Road user</label>
+          <select id="c3-roaduser">
+            <option value="All">All road users</option>
+            <option value="Car driver">Car driver</option>
+            <option value="Car passenger">Car passenger</option>
+            <option value="Motorcyclist">Motorcyclist</option>
+            <option value="Pedal cyclist">Pedal cyclist</option>
+            <option value="Pedestrian">Pedestrian</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="chart-wrapper" id="chart3"></div>
+
+      <div class="insight">
+        <p>
+          The age profile shows that hospitalised road crash injuries are not only concentrated
+          among young people. In many filtered views, middle-aged adults form a large part of the
+          injury burden, especially the 40–64 age group. The road user filter helps show whether
+          age patterns differ between drivers, passengers, motorcyclists, cyclists, and pedestrians.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CHART 4 -->
+  <section class="chart-section alt" id="section-4">
+    <div class="container">
+      <p class="section-label">Section 04</p>
+      <h2>How do different road users actually get injured?</h2>
+      <p class="section-intro">
+        Hospitalisation counts tell us who is affected, but not how. The crash counterparty — what
+        the injured person collided with or was involved with — reveals very different patterns
+        for different road users.
+      </p>
+
+      <div class="controls">
+        <div class="control-group">
+          <label for="c4-roaduser">Road user</label>
+          <select id="c4-roaduser">
+            <option value="Pedal cyclist">Pedal cyclist</option>
+            <option value="Pedestrian">Pedestrian</option>
+            <option value="Car driver">Car driver</option>
+            <option value="Car passenger">Car passenger</option>
+            <option value="Motorcyclist">Motorcyclist</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="c4-year">Year</label>
+          <select id="c4-year">
+            <option value="All">All years (2011–2021)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="chart-wrapper" id="chart4"></div>
+
+      <div class="insight">
+        <p>
+          Crash interaction patterns differ strongly by road user. Pedestrian injuries are more
+          often linked with car and van collisions, while cyclists and motorcyclists show more
+          non-collision or solo events. This suggests road safety responses should consider how
+          each group is injured. Pedestrian safety may focus on vehicle interaction, while cyclist
+          and motorcyclist safety may also require attention to road surface, infrastructure design,
+          speed, and loss-of-control incidents.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="container">
+      <h3>Key Findings</h3>
+      <ul>
+        <li>Hospitalised road crash injuries increased between 2011 and 2021, but the increase was not equal across all road users.</li>
+        <li>Road user type is important for understanding the injury burden, as drivers, passengers, motorcyclists, cyclists, and pedestrians show different patterns.</li>
+        <li>Sex-based filtering shows that some road user groups, especially motorcyclists, have a much stronger male injury burden.</li>
+        <li>Age-group analysis shows that hospitalised injuries are not only a young-person issue; middle-aged and older groups also carry a significant burden.</li>
+        <li>Crash interaction patterns differ by road user, meaning safety responses should consider how injuries happen, not only who is injured.</li>
+      </ul>
+      <p class="data-source">
+        <strong>Data Source:</strong> Bureau of Infrastructure and Transport Research Economics
+        (BITRE), <em>Hospitalised Injury Publication, September 2023</em>. National hospitalised
+        injuries from road traffic crashes, 2011–2021. Raw data processed and aggregated in KNIME.
+      </p>
+      
+    </div>
+  </footer>
+
+  <!-- Tooltip -->
+  <div id="tooltip" class="tooltip" style="opacity:0;"></div>
+
+  <!-- Scripts -->
+  <script src="js/main.js"></script>
+  <script src="js/chart1.js"></script>
+  <script src="js/chart2.js"></script>
+  <script src="js/chart3.js"></script>
+  <script src="js/chart4.js"></script>
+</body>
+</html>
